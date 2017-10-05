@@ -1,0 +1,14 @@
+<Project version="2.0">
+<Name>Naruto</Name>
+<Type>GUI</Type>
+<TargetName>Naruto</TargetName>
+<TargetType>exe</TargetType>
+<Folder name="Source Files">
+	<File>main.cpp</File>
+</Folder>
+<Folder name="Header Files">
+	<File>Doremon2.h</File>
+</Folder>
+<Folder name="Other Files">
+	<File>mingw2.95\Doremon2.a</File>
+</Folder>
